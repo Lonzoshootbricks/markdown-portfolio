@@ -1,2 +1,3 @@
-- [ ]food,laughter,myself
+*food
+*Myself
 
