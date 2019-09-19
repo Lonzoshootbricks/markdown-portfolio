@@ -1,1 +1,1 @@
-## - [https://www.google.com/search?q=d+rose+helping+photo&safe=strict&rlz=1C1GCEB_enCA865CA865&source=lnms&tbm=isch&sa=X&ved=0ahUKEwixxOjs9tzkAhURd6wKHeXKAvkQ_AUIEigB&biw=1920&bih=969#imgrc=1RO5nPjHX3XKPM:]
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
